@@ -1,4 +1,4 @@
-### hy, I'm LUCIAN
+### HY, I'M LUCIAN
 ### Ingeniero de Software | Especialidad en Inteligencia Artificial
 Desarrollador Full-Stack orientado a la arquitectura de sistemas escalables, la integración de hardware (IoT) y la implementación de modelos de Machine Learning para soluciones empresariales.
 
